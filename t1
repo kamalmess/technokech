@@ -1,0 +1,18 @@
+{
+  "app_name": "FlutterApp",
+  "version": "1.0.0",
+  "author": "Your Name",
+  "theme": {
+    "primary_color": "#6200ea",
+    "accent_color": "#03a9f4"
+  },
+  "api_endpoints": {
+    "base_url": "https://api.example.com",
+    "user_data": "/user",
+    "posts": "/posts"
+  },
+  "features": {
+    "enable_notifications": true,
+    "analytics_enabled": false
+  }
+}
